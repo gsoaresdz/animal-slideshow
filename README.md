@@ -1,9 +1,9 @@
 ### <h1 align="center">Animal Slideshow</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/slide-animais?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/slide-animais?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/slide-animais?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/animal-slideshow?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/animal-slideshow?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/animal-slideshow?color=56BEB8">
 </p>
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -46,7 +46,7 @@ Before starting, you need to have a web browser installed to view the slideshow.
 1. Clone the repository to your local machine:
 
 ```bash
-$ git clone https://github.com/gsoaresdz/slide-animais.git
+$ git clone https://github.com/gsoaresdz/animal-slideshow.git
 ```
 
 1. Navigate to the project directory:
@@ -66,12 +66,10 @@ The project structure is organized as follows:
 - `js/`: Contains the JavaScript file to control the slideshow functionality.
 - `index.html`: The main file that structures the slideshow page.
 
-## **:memo: Licença**
+## **:memo: License**
 
-Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
-Feito com :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
+Made with :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
 
-&#xa0;
-
-<a href="#top">De volta ao topo</a>
+<a href="#top">Back to top</a>
