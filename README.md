@@ -1,69 +1,70 @@
-### <h1 align="center">Slide de Animais</h1>
+### <h1 align="center">Animal Slideshow</h1>
+
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/slide-animais?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/slide-animais?color=56BEB8">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/slide-animais?color=56BEB8">
 </p>
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#camera-slideshow">Slideshow</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-execução">Execução</a> &#xa0; | &#xa0;
-  <a href="#memo-estrutura-do-projeto">Estrutura do Projeto</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/gsoaresdz" target="_blank">Autor</a>
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-execution">Execution</a> &#xa0; | &#xa0;
+  <a href="#memo-project-structure">Project Structure</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/gsoaresdz" target="_blank">Author</a>
 </p>
 <br>
 
-## **:dart: Sobre**
+## **:dart: About**
 
-Este repositório contém um projeto de slideshow de imagens de animais desenvolvido como parte de um curso de JavaScript. O projeto demonstra como criar um slideshow simples utilizando HTML, CSS e JavaScript.
+This repository contains an animal image slideshow project developed as part of a JavaScript course. The project demonstrates how to create a simple slideshow using HTML, CSS, and JavaScript.
 
 ## **:camera: Slideshow**
 
-:heavy_check_mark: **Imagens de Animais**: O slideshow apresenta diversas imagens de animais, que podem ser navegadas manualmente.
+:heavy_check_mark: **Animal Images**: The slideshow displays various animal images that can be navigated manually.
 
-:heavy_check_mark: **Controles Personalizados**: O projeto inclui controles personalizados para navegação entre as imagens.
+:heavy_check_mark: **Custom Controls**: The project includes custom controls for navigating through the images.
 
-## **:rocket: Tecnologias**
+## **:rocket: Technologies**
 
-As seguintes tecnologias foram usadas neste projeto:
+The following technologies were used in this project:
 
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## **:white_check_mark: Requerimentos**
+## **:white_check_mark: Requirements**
 
-Antes de começar, você precisa ter um navegador web instalado para visualizar o slideshow.
+Before starting, you need to have a web browser installed to view the slideshow.
 
-## **:checkered_flag: Execução**
+## **:checkered_flag: Execution**
 
-### Abrindo o Projeto
+### Opening the Project
 
-1. Clone o repositório para sua máquina local:
+1. Clone the repository to your local machine:
 
 ```bash
 $ git clone https://github.com/gsoaresdz/slide-animais.git
 ```
 
-1. Navegue até o diretório do projeto:
+1. Navigate to the project directory:
 
 ```bash
 $ cd slide-animais
 ```
 
-1. Abra o arquivo `index.html` no navegador para visualizar o slideshow.
+1. Open the `index.html` file in your browser to view the slideshow.
 
-## **:memo: Estrutura do Projeto**
+## **:memo: Project Structure**
 
-A estrutura do projeto está organizada da seguinte maneira:
+The project structure is organized as follows:
 
-- `css/`: Contém os arquivos de estilos (CSS) usados no projeto.
-- `img/`: Contém as imagens usadas no slideshow.
-- `js/`: Contém o arquivo JavaScript para controlar a funcionalidade do slideshow.
-- `index.html`: O arquivo principal que estrutura a página do slideshow.
+- `css/`: Contains the CSS files used in the project.
+- `img/`: Contains the images used in the slideshow.
+- `js/`: Contains the JavaScript file to control the slideshow functionality.
+- `index.html`: The main file that structures the slideshow page.
 
 ## **:memo: Licença**
 
